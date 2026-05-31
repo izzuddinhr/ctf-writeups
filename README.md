@@ -5,9 +5,9 @@ Each folder contains challenge breakdowns, key insights, and solve scripts.
 
 ## Competitions
 
-| CTF | Year | Challenges Solved |
-|-----|------|-------------------|
-| [NUSGreyHats](./NUSGreyHats-2026) | 2026 | 5 |
+| CTF | Year |
+|-----|------|
+| [NUSGreyHats](./NUSGreyHats-2026) | 2026 |
 
 ## Categories
 - 🔴 **pwn** — binary exploitation, heap/stack attacks
